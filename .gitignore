@@ -1,4 +1,5 @@
-
+# ignore this file
+.ipynb_checkpoints
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -120,5 +121,3 @@ data
 # results 
 results
 
-# ignore this file
-.ipynb_checkpoints
