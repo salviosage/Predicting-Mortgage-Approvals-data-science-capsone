@@ -120,4 +120,5 @@ data
 # results 
 results
 
+# ignore this file
 .ipynb_checkpoints
