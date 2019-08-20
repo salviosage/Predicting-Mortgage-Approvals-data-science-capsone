@@ -124,5 +124,7 @@ results
 progressData
 # results 
 catboost_info
+# .DS_Store 
+.DS_Store
 
 
